@@ -16,7 +16,7 @@ def banner():
         | |  __| |__   ___  _ __ ___ | |__  
         | | |_ | '_ \ / _ \| '_ ` _ \| '_ \ 
         | |__| | |_) | (_) | | | | | | |_) |
-     v1.0\_____|_.__/ \___/|_| |_| |_|_.__/ 
+     v1.1\_____|_.__/ \___/|_| |_| |_|_.__/ 
     """
     )
     print(
@@ -24,7 +24,7 @@ def banner():
         + """
       Name       : Gbomb - Gmail Bombing Tool.
       Author     : Md. nur habib
-      Email      : mdnurhabib12@Gmail.com
+      Email      : thenurhabib@Gmail.com
       GitHub     : github.com/thenurhabib
       HackerRank : hackerrank.com/thenurhabib\n      
         """
