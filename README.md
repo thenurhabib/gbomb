@@ -8,7 +8,7 @@ Gmail Bombing Tool. This tool made for only educational purpose.
 `apt-get upgrade` <br>
 `pkg install git` <br>
 `pkg install python3` <br>
-`git clone https://github.com/nurhabib1/gbomb` <br>
+`git clone https://github.com/thenurhabib/gbomb` <br>
 `pip install -r requirements.txt` <br>
 `cd gbomb` <br>
 `.python3 gbomb.py` 
@@ -31,5 +31,5 @@ I'm a programmer & Linux System Administrator.
 
 ## Author
 
-- [@Md. Nur habib](https://www.github.com/nurhabib1)
+- [@Md. Nur habib](https://www.github.com/thenurhabib)
 
